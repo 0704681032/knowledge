@@ -3,7 +3,7 @@
 - [前端要给力之：红绿灯大战中的火星生命-Promise](http://blog.csdn.net/aimingoo/article/details/45014325)
    <br/>Promise Generator
    
-- [深入掌握 ECMAScript 6 异步编程系列](http://www.ruanyifeng.com/blog/2015/04/generator.html)
+- [深入掌握 ECMAScript 6 异步编程系列系列](http://www.ruanyifeng.com/blog/2015/04/generator.html)
 
 
 - [TJ Holowaychuk大神co函数的实现](https://github.com/tj/co)
